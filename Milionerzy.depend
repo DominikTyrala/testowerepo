@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1487241565 source:c:\users\jz1clv\desktop\laptop stary\stary lapto\c++\milionerzy\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+
