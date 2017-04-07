@@ -1,0 +1,72 @@
+Typ zmiennych o nazwie float przechowuje:
+liczby calkowite
+napisy
+liczby zmiennoprzecinkowe
+pojedyncze znaki
+c
+Wstrzymanie wykonania programu na czas 2 sekund uzyskasz instrukcja:
+Wait(2000)
+Stop(2000)
+Delay(2000)
+Sleep(2000)
+d
+Ktora deklaracja jest zapisana poprawnie?
+int x;
+integer x;
+x:integer;
+x=integer;
+a
+Z jakiego przedzialu zostanie wylosowana liczba: rand()%10+2
+0..9
+2..9
+2..11
+0..11
+c
+Ile razy wykona sie petla: for (int i=4; i>=-2; i--)
+ani razu
+nieskonczenie wiele razy
+6
+7
+d
+Kto byl selekcjonerem reprezentacji Polski? 
+Jacek Gmoch
+Grzegorz Lato
+Kazimierz Deyna
+Wlodzimierz Lubanski
+a
+Kto wygral Mistrzostwa Swiata w 2002 roku?
+Francja
+Brazylia
+Hiszpania
+Niemcy
+b
+Jakie najwyzsze miejsce Polska uzyskala na Mistrzostwach Swiata?
+6
+4
+3
+2
+c
+Kto zwyciezyl w plebiscycie i otrzymal Zlota Pilke w roku 2000?
+Luis Figo
+Zinedine Zidane
+Ronaldo
+Rivaldo
+a
+Ktora druzyna zdobyla najwiecej tytulow Mistrza Polski?
+Ruch Chorzow
+Legia Warszawa
+Wisla Krakow
+Lech Poznan
+a
+Domyslne profile uzytkownikow Windows XP sa przechowywane w folderze
+Roaming User Profile - na partycji rozruchowej.
+Documents and Settings.
+Profile - na partycji dodatkowej.
+Macierzystym - w pierwszym sektorze dysku twardego.
+b
+Ktora kombinacja klawiszy powoduje zaznaczenie wszystkich obiektow w otwartym folderze w Systemie Windows:
+Ctrl + O
+Ctrl + A
+Ctrl + X
+Ctrl + Z
+b
